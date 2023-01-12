@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+.nav-bar-wrapper a{
+  padding-left: 30px;
+}
+
+.search{
+  width: 400px;
+  margin-bottom: 28px;
+  height: 40px;
+  border: 1px solid black;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
